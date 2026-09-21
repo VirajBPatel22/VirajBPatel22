@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Viraj+Patel+👋;M.Tech+Machine+Learning+@+DAU;Competitive+Programmer;Hackout+2026+1st+Runner-Up!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Viraj+Patel;M.Tech+Machine+Learning+@+DAU;Competitive+Programmer;Hackout+2026+1st+Runner-Up" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,7 +21,7 @@
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,git,github" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,git,github" />
   </a>
 </p>
 
@@ -38,8 +38,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VirajBPatel22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajBPatel22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VirajBPatel22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajBPatel22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
