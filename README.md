@@ -27,6 +27,18 @@
 
 <br>
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| 🎓 [**DAU-MTech-Journey**](https://github.com/VirajBPatel22/DAU-MTech-Journey) | A comprehensive digital archive of my M.Tech coursework, Machine Learning labs, and research notes at DAU. | `Jupyter`, `Python` | - |
+| 🔮 [**ACPC-Choice-Filling-Predictor**](https://github.com/VirajBPatel22/ACPC-Choice-Filling-Predictor) | Smart Engineering Admission Predictor. Calculates exact merit rank, filters 100+ colleges, and exports custom PDFs. | `Python`, `Pandas`, `JS` | [🔗 View Live](https://acpc-choice-filling-predictor.onrender.com) |
+| 🚗 [**Car Price Predictor**](https://github.com/VirajBPatel22/car-price-pridictor) | A Machine Learning model built to predict used car prices based on vehicle attributes. | `Jupyter`, `Scikit-Learn` | - |
+| 🌱 [**Crop Price Predictor**](https://github.com/VirajBPatel22/crop-price-predictor) | Predictive analytics model designed to forecast agricultural crop prices based on historical datasets. | `Jupyter`, `Scikit-Learn` | - |
+| 🌿 [**GreenArc**](https://github.com/VirajBPatel22/greenarc) | Modern web application architecture built with TypeScript. | `TypeScript` | - |
+
+<br>
+
 ### 🏆 Competitive Programming & Stats
 
 <div align="center">
