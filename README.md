@@ -24,7 +24,7 @@
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=py,java,js" />
 </p>
 
 <p align="center"><strong>Frontend & Web</strong></p>
@@ -53,19 +53,19 @@
 
 ### 🚀 Featured Projects
 
-**GreenArc: Industrial Emissions & Energy Auditing Platform**
+[**GreenArc: Industrial Emissions & Energy Auditing Platform**](https://github.com/VirajBPatel22/greenarc)
 
 - Secured the **1st Runner-Up** position at the **Hackout 2026** hackathon by architecting a highly scalable industrial energy and emissions auditing platform
 - Engineered the frontend dashboard and Marginal Abatement Cost Curve (MACC) interfaces using **React 19**, **Vite**, and **TypeScript**
 - Integrated a deterministic **Python** domain engine and **FastAPI** backend via real-time Server-Sent Events (SSE) to process complex thermodynamic calculations
 
-**ACPC Engineering Admission & Choice Filling Predictor**
+[**ACPC Engineering Admission & Choice Filling Predictor**](https://github.com/VirajBPatel22/ACPC-Choice-Filling-Predictor)
 
 - Architected an enterprise-grade admission prediction engine using an **Object-Oriented Python** backend and **Flask** to dynamically calculate exact student merit ranks
 - Developed an intelligent **Pandas-based** probability algorithm utilizing 50:50 historical formulas and YoY cutoff trend analysis for 126+ courses
-- Engineered a state-driven frontend interface with automated choice balancing, multi-filter matrices, and one-click PDF generation using **JavaScript** | [🔗 View Live](https://acpc-choice-filling-predictor.onrender.com)
+- Engineered a state-driven frontend interface with automated choice balancing, multi-filter matrices, and one-click PDF generation using **JavaScript**
 
-**End-to-End Used Car Price Prediction Pipeline**
+[**Used Car Price Prediction**](https://github.com/VirajBPatel22/car-price-pridictor)
 
 - Engineered a predictive pricing model utilizing a **Random Forest ensemble** to capture complex, non-linear relationships across high-dimensional automotive datasets
 - Architected a robust data preprocessing workflow using Scikit-Learn `Pipeline` and `ColumnTransformer`, ensuring strict prevention of data leakage and scalable handling of out-of-vocabulary categorical features
