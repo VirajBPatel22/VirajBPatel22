@@ -53,23 +53,23 @@
 
 ### 🚀 Featured Projects
 
-**GreenArc: Award-Winning Web Application Architecture**
+**GreenArc: Industrial Emissions & Energy Auditing Platform**
 
-- Secured the **1st Runner-Up** position at the **Hackout 2026** national hackathon by delivering a highly scalable web solution
-- Architected a robust full-stack ecosystem using **TypeScript**, ensuring type safety and a maintainable codebase structure
-- Implemented optimized rendering workflows and responsive UI components to handle dynamic data loads with minimal latency
+- Secured the **1st Runner-Up** position at the **Hackout 2026** hackathon by architecting a highly scalable industrial energy and emissions auditing platform
+- Engineered the frontend dashboard and Marginal Abatement Cost Curve (MACC) interfaces using **React 19**, **Vite**, and **TypeScript**
+- Integrated a deterministic **Python** domain engine and **FastAPI** backend via real-time Server-Sent Events (SSE) to process complex thermodynamic calculations
 
 **ACPC Engineering Admission & Choice Filling Predictor**
 
-- Engineered an intelligent prediction engine in **Python** to dynamically calculate exact student merit ranks from raw examination data
-- Built a complex filtering algorithm using **Pandas** to process 100+ college parameters and automatically generate customized PDF reports
-- Deployed a highly interactive, real-time frontend using **JavaScript** and deployed the full system on Render ([🔗 View Live](https://acpc-choice-filling-predictor.onrender.com))
+- Architected an enterprise-grade admission prediction engine using an **Object-Oriented Python** backend and **Flask** to dynamically calculate exact student merit ranks
+- Developed an intelligent **Pandas-based** probability algorithm utilizing 50:50 historical formulas and YoY cutoff trend analysis for 126+ courses
+- Engineered a state-driven frontend interface with automated choice balancing, multi-filter matrices, and one-click PDF generation using **JavaScript** | [🔗 View Live](https://acpc-choice-filling-predictor.onrender.com)
 
-**Machine Learning Pipeline for Used Car Price Prediction**
+**End-to-End Used Car Price Prediction Pipeline**
 
-- Developed an end-to-end Machine Learning system using **Scikit-Learn** to predict vehicle prices based on multi-dimensional attributes
-- Implemented `ColumnTransformer` pipelines and feature engineering to handle categorical variables and unknown data gracefully
-- Integrated the trained predictive model into a **Flask** backend, delivering real-time pricing inferences via a custom web interface
+- Developed a robust Machine Learning system using **Scikit-Learn** and **Random Forest Regressor** to accurately predict vehicle valuations based on multi-dimensional attributes
+- Implemented `ColumnTransformer` pipelines and one-hot encoding to gracefully handle categorical feature extraction and unknown data at scale
+- Built and deployed a **Flask-based** REST API and web interface to serve real-time pricing inferences directly to end users
 
 ---
 
