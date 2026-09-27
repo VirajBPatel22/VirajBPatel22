@@ -67,9 +67,9 @@
 
 **End-to-End Used Car Price Prediction Pipeline**
 
-- Developed a robust Machine Learning system using **Scikit-Learn** and **Random Forest Regressor** to accurately predict vehicle valuations based on multi-dimensional attributes
-- Implemented `ColumnTransformer` pipelines and one-hot encoding to gracefully handle categorical feature extraction and unknown data at scale
-- Built and deployed a **Flask-based** REST API and web interface to serve real-time pricing inferences directly to end users
+- Engineered a predictive pricing model utilizing a **Random Forest ensemble** to capture complex, non-linear relationships across high-dimensional automotive datasets
+- Architected a robust data preprocessing workflow using Scikit-Learn `Pipeline` and `ColumnTransformer`, ensuring strict prevention of data leakage and scalable handling of out-of-vocabulary categorical features
+- Operationalized the machine learning model by developing a **Flask-based REST API**, enabling low-latency, real-time inference serving through a custom web interface
 
 ---
 
