@@ -53,25 +53,20 @@
 
 ### 🚀 Featured Projects
 
-**🎓 [DAU-MTech-Journey](https://github.com/VirajBPatel22/DAU-MTech-Journey)**
-- A comprehensive digital archive of my M.Tech coursework, Machine Learning labs, and research notes at DAU.
-- **Tech Stack:** Jupyter, Python
+**🏆 [GreenArc](https://github.com/VirajBPatel22/greenarc)**
+- Secured the prestigious **1st Runner-Up** position at the **Hackout 2026** national hackathon.
+- Architected and engineered a highly optimized, modern web application ecosystem designed for scale.
+- **Tech Stack:** TypeScript, Web Technologies
 
 **🔮 [ACPC-Choice-Filling-Predictor](https://github.com/VirajBPatel22/ACPC-Choice-Filling-Predictor)**
-- Smart Engineering Admission Predictor. Calculates exact merit rank, filters 100+ colleges, and exports custom PDFs.
-- **Tech Stack:** Python, Pandas, JS | [🔗 View Live](https://acpc-choice-filling-predictor.onrender.com)
+- Built an intelligent engineering admission prediction engine calculating exact merit ranks for students.
+- Developed algorithms to dynamically filter over 100+ colleges based on rank and automatically export customized PDF reports.
+- **Tech Stack:** Python, Pandas, JavaScript | [🔗 View Live](https://acpc-choice-filling-predictor.onrender.com)
 
 **🚗 [Car Price Predictor](https://github.com/VirajBPatel22/car-price-pridictor)**
-- A Machine Learning model built to predict used car prices based on vehicle attributes.
-- **Tech Stack:** Jupyter, Scikit-Learn
-
-**🌱 [Crop Price Predictor](https://github.com/VirajBPatel22/crop-price-predictor)**
-- Predictive analytics model designed to forecast agricultural crop prices based on historical datasets.
-- **Tech Stack:** Jupyter, Scikit-Learn
-
-**🌿 [GreenArc](https://github.com/VirajBPatel22/greenarc)**
-- Modern web application architecture built with TypeScript.
-- **Tech Stack:** TypeScript
+- Designed an end-to-end Machine Learning pipeline to accurately predict used car prices based on multi-dimensional vehicle attributes.
+- Implemented robust data preprocessing, feature engineering, and trained generalized predictive models using Scikit-Learn.
+- **Tech Stack:** Python, Scikit-Learn, Jupyter Notebook, Flask
 
 ---
 
@@ -79,7 +74,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/virajbpatel/">
-    <img src="https://leetcard.jacoblin.cool/virajbpatel?theme=radical&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/virajbpatel?theme=dracula&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
 
