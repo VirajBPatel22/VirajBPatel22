@@ -71,6 +71,12 @@
 - Architected a robust data preprocessing workflow using Scikit-Learn `Pipeline` and `ColumnTransformer`, ensuring strict prevention of data leakage and scalable handling of out-of-vocabulary categorical features
 - Operationalized the machine learning model by developing a **Flask-based REST API**, enabling low-latency, real-time inference serving through a custom web interface
 
+[**Expense Tracker Pro: Full-Stack MERN Application**](https://github.com/VirajBPatel22/Expense-Tracker-App)
+
+- Architected a highly secure, multi-tenant financial tracking platform utilizing the **MERN Stack** (MongoDB, Express, React, Node.js) with strict JWT-based authentication
+- Engineered an interactive frontend featuring dynamic **Chart.js** analytics, real-time burn rate calculations, and robust multi-filter transaction explorers
+- Designed and deployed a scalable REST API connected to MongoDB Atlas, ensuring complete data isolation and seamless state synchronization | [🔗 View Live](https://expense-tracker-app-rust-eta.vercel.app)
+
 ---
 
 ### 🏆 Competitive Programming & Stats
