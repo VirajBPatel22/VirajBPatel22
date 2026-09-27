@@ -53,20 +53,23 @@
 
 ### 🚀 Featured Projects
 
-**🏆 [GreenArc](https://github.com/VirajBPatel22/greenarc)**
-- Secured the prestigious **1st Runner-Up** position at the **Hackout 2026** national hackathon.
-- Architected and engineered a highly optimized, modern web application ecosystem designed for scale.
-- **Tech Stack:** TypeScript, Web Technologies
+**GreenArc: Award-Winning Web Application Architecture**
 
-**🔮 [ACPC-Choice-Filling-Predictor](https://github.com/VirajBPatel22/ACPC-Choice-Filling-Predictor)**
-- Built an intelligent engineering admission prediction engine calculating exact merit ranks for students.
-- Developed algorithms to dynamically filter over 100+ colleges based on rank and automatically export customized PDF reports.
-- **Tech Stack:** Python, Pandas, JavaScript | [🔗 View Live](https://acpc-choice-filling-predictor.onrender.com)
+- Secured the **1st Runner-Up** position at the **Hackout 2026** national hackathon by delivering a highly scalable web solution
+- Architected a robust full-stack ecosystem using **TypeScript**, ensuring type safety and a maintainable codebase structure
+- Implemented optimized rendering workflows and responsive UI components to handle dynamic data loads with minimal latency
 
-**🚗 [Car Price Predictor](https://github.com/VirajBPatel22/car-price-pridictor)**
-- Designed an end-to-end Machine Learning pipeline to accurately predict used car prices based on multi-dimensional vehicle attributes.
-- Implemented robust data preprocessing, feature engineering, and trained generalized predictive models using Scikit-Learn.
-- **Tech Stack:** Python, Scikit-Learn, Jupyter Notebook, Flask
+**ACPC Engineering Admission & Choice Filling Predictor**
+
+- Engineered an intelligent prediction engine in **Python** to dynamically calculate exact student merit ranks from raw examination data
+- Built a complex filtering algorithm using **Pandas** to process 100+ college parameters and automatically generate customized PDF reports
+- Deployed a highly interactive, real-time frontend using **JavaScript** and deployed the full system on Render ([🔗 View Live](https://acpc-choice-filling-predictor.onrender.com))
+
+**Machine Learning Pipeline for Used Car Price Prediction**
+
+- Developed an end-to-end Machine Learning system using **Scikit-Learn** to predict vehicle prices based on multi-dimensional attributes
+- Implemented `ColumnTransformer` pipelines and feature engineering to handle categorical variables and unknown data gracefully
+- Integrated the trained predictive model into a **Flask** backend, delivering real-time pricing inferences via a custom web interface
 
 ---
 
